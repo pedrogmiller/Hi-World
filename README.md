@@ -1,2 +1,3 @@
 # Hi-World
-nmmn
+Hmm..
+It is always very strange to learn something completly new.
